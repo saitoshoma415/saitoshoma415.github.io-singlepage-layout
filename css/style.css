@@ -255,7 +255,6 @@ font-size: 2rem;
   }
 }
 @media (max-width: 768px) {
-}
 .site-title-sub::before,
 .site-title-sub::after {
   display: block;
@@ -321,4 +320,5 @@ body {
 }
 .contact {
   padding-bottom: 80px;
+}
 }
