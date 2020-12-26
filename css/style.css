@@ -197,7 +197,10 @@ body {
   line-height: 142px;
 }
 .lightbulb {
-  font-size: 8rem;
+  font-size: 8em;
+}
+.fa-yellow {
+  color: #f1b400;
 }
 .skill-title {
 margin: 0 20px 20px;
